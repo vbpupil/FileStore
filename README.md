@@ -1,2 +1,4 @@
-# file
-Python simple file and directory wrappers
+# File
+
+Python simple file and directory wrappers.
+
