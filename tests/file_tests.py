@@ -1,5 +1,5 @@
 import unittest
-from File import File
+from file.File import File
 
 class FileTest(unittest.TestCase):
     f = None

@@ -1,5 +1,5 @@
 import unittest
-from Directory import Directory
+from directory.Directory import Directory
 
 
 class DirectoryTest(unittest.TestCase):
