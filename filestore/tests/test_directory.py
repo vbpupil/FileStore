@@ -1,5 +1,5 @@
 import unittest
-from directory.Directory import Directory
+from filestore.Directory import Directory
 
 
 class DirectoryTest(unittest.TestCase):
