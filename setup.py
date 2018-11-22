@@ -4,7 +4,7 @@
 
 from setuptools import setup, find_packages
 
-with open('README.rst') as f:
+with open('README.md') as f:
     readme = f.read()
 
 with open('LICENSE') as f:
@@ -14,7 +14,7 @@ setup(
     name='fileStore',
     version='0.1.0',
     description='Python simple filestore and directory wrappers.',
-    long_description=open('README.rst').read(),
+    long_description=open('README.md').read(),
     author='Dean Haines',
     author_email='vbpupil@gmail.com',
     url='https://github.com/vbpupil/filestore',
